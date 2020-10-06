@@ -1,0 +1,111 @@
+strain_name	vaccination_status	Ct	collection_date	specimen_type
+MuVs/Washington.USA/49.16/FH55[G]	unknown	28.39	12/7/16 0:00	Respiratory: NP/throat swab
+MuVs/Washington.USA/48.16/FH1[G]	up_to_date	29.32	12/7/16 0:00	Buccal Swab
+MuVs/Washington.USA/49.16/FH45[G]	unknown	30.24	12/10/16 0:00	Buccal Swab
+MuVs/Washington.USA/50.16/FH2[G]	up_to_date	25.11	12/13/16 0:00	Buccal Swab
+MuVs/Washington.USA/50.16/FH3[G]	up_to_date	28.53	12/12/16 0:00	Buccal Swab
+MuVs/Washington.USA/50.16/FH64[G]	up_to_date	34.54	12/12/16 0:00	Buccal Swab
+MuVs/Washington.USA/50.16/FH4[G]	unknown	27.51	12/13/16 0:00	Buccal Swab
+MuVs/Washington.USA/51.16/FH46[G]	unknown	25.69	12/22/16 0:00	Buccal Swab
+MuVs/Washington.USA/52.16/FH75[G]	up_to_date	27.02	12/30/16 0:00	Buccal Swab
+MuVs/Washington.USA/1.17/FH5[G]	up_to_date	23.04	1/3/17 0:00	Buccal Swab
+MuVs/Washington.USA/52.16/FH28[G]	unknown	34.28	12/31/16 0:00	Buccal Swab
+MuVs/Washington.USA/1.17/FH6[G]	not_up_to_date	32.87	1/4/17 0:00	Buccal Swab
+MuVs/Washington.USA/1.17/FH7[G]	up_to_date	25.29	1/6/17 0:00	Buccal Swab
+MuVs/Washington.USA/1.17/FH65[G]	up_to_date	28.53	1/8/17 0:00	Buccal Swab
+MuVs/Washington.USA/1.17/FH8[G]	unknown	26.61	1/5/17 0:00	Buccal Swab
+MuVs/Washington.USA/1.17/FH77[G]	up_to_date	34.73	1/11/17 0:00	Buccal Swab
+MuVs/Washington.USA/2.17/FH47[G]	up_to_date	24.04	1/11/17 0:00	Buccal Swab
+MuVs/Washington.USA/1.17/FH29[G]	up_to_date	33.14	1/10/17 0:00	Buccal Swab
+MuVs/Washington.USA/2.17/FH26[G]	up_to_date	29.08	1/12/17 0:00	Buccal Swab
+MuVs/Washington.USA/2.17/FH66[G]	unknown	23.51	1/13/17 0:00	Buccal Swab
+MuVs/Washington.USA/2.17/FH54[G]	up_to_date	24.47	1/12/17 0:00	Buccal Swab
+MuVs/Washington.USA/2.17/FH21[G]	up_to_date	26.50	1/13/17 0:00	Buccal Swab
+MuVs/Washington.USA/2.17/FH22[G]	not_up_to_date	31.09	1/17/17 0:00	Buccal Swab
+MuVs/Washington.USA/3.17/FH67[G]	up_to_date	29.70	1/17/17 0:00	Buccal Swab
+MuVs/Washington.USA/2.17/FH23[G]	up_to_date	25.61	1/13/17 0:00	Buccal Swab
+MuVs/Washington.USA/3.17/FH24[G]	up_to_date	21.89	1/19/17 0:00	Buccal Swab
+MuVs/Washington.USA/3.17/FH25[G]	up_to_date	27.23	1/20/17 0:00	Buccal Swab
+MuVs/Washington.USA/4.17/FH68[G]	up_to_date	27.07	1/26/17 0:00	Buccal Swab
+MuVs/Washington.USA/4.17/FH48[G]	up_to_date	20.15	1/28/17 0:00	Buccal Swab
+MuVs/Washington.USA/4.17/FH70[G]	unknown	25.32	1/30/17 0:00	Buccal Swab
+MuVs/Washington.USA/4.17/FH71[G]	up_to_date	25.92	1/30/17 0:00	Buccal Swab
+MuVs/Washington.USA/5.17/FH27[G]	up_to_date	24.53	1/30/17 0:00	Buccal Swab
+MuVs/Washington.USA/5.17/FH72[G]	unknown	22.74	2/1/17 0:00	Buccal Swab
+MuVs/Washington.USA/5.17/FH9[G]	up_to_date	30.38	1/31/17 0:00	Buccal Swab
+MuVs/Washington.USA/4.17/FH49[G]	up_to_date	31.31	1/31/17 0:00	Buccal Swab
+MuVs/Washington.USA/5.17/FH50[G]	unknown	31.14	2/6/17 0:00	Buccal Swab
+MuVs/Washington.USA/6.17/FH51[G]	unknown	26.59	2/6/17 0:00	Buccal Swab
+MuVs/Washington.USA/5.17/FH30[G]	unknown	33.27	2/2/17 0:00	Buccal Swab
+MuVs/Washington.USA/5.17/FH10[G]	up_to_date	26.72	2/4/17 0:00	Buccal Swab
+MuVs/Washington.USA/5.17/FH11[G]	up_to_date	28.17	2/8/17 0:00	Buccal Swab
+MuVs/Washington.USA/6.17/FH12[G]	unknown	25.00	2/8/17 0:00	Buccal Swab
+MuVs/Washington.USA/6.17/FH13[G]	up_to_date	25.31	2/13/17 0:00	Buccal Swab
+MuVs/Washington.USA/6.17/FH14[G]	unknown	29.04	2/8/17 0:00	Buccal Swab
+MuVs/Washington.USA/7.17/FH15[G]	unknown	33.33	2/15/17 0:00	Buccal Swab
+MuVs/Washington.USA/9.17/FH16[G]	up_to_date	23.17	2/28/17 0:00	Buccal Swab
+MuVs/Washington.USA/8.17/FH17[G]	up_to_date	28.83	2/23/17 0:00	Buccal Swab
+MuVs/Washington.USA/9.17/FH31[G]	up_to_date	34.94	3/1/17 0:00	Buccal Swab
+MuVs/Washington.USA/9.17/FH18[G]	up_to_date	31.84	3/1/17 0:00	Buccal Swab
+MuVs/Washington.USA/8.17/FH19[G]	unknown	32.16	2/28/17 0:00	Buccal Swab
+MuVs/Washington.USA/10.17/FH52[G]	not_up_to_date	23.76	3/12/17 0:00	Buccal Swab
+MuVs/Washington.USA/11.17/FH56[G]	unknown	25.31	3/15/17 0:00	Buccal Swab
+MuVs/Washington.USA/12.17/FH57[G]	unknown	32.79	3/22/17 0:00	Buccal Swab
+MuVs/Washington.USA/12.17/FH34[G]	up_to_date	24.15	3/22/17 0:00	Buccal Swab
+MuVs/Washington.USA/12.17/FH78[G]	unknown	27.05	3/24/17 0:00	Buccal Swab
+MuVs/Washington.USA/12.17/FH35[G]	not_up_to_date	28.12	3/24/17 0:00	Buccal Swab
+MuVs/Washington.USA/15.17/FH20[G]	up_to_date	22.25	4/13/17 0:00	Buccal Swab
+MuVs/Washington.USA/16.17/FH36[G]	up_to_date	25.15	4/19/17 0:00	Buccal Swab
+MuVs/Washington.USA/16.17/FH79[G]	up_to_date	27.44	4/23/17 0:00	Buccal Swab
+MuVs/Washington.USA/17.17/FH38[G]	unknown	26.45	4/25/17 0:00	Buccal Swab
+MuVs/Washington.USA/17.17/FH39[G]	up_to_date	26.69	4/27/17 0:00	Buccal Swab
+MuVs/Washington.USA/17.17/FH40[G]	up_to_date	21.78	4/29/17 0:00	Buccal Swab
+MuVs/Washington.USA/17.17/FH37[G]	unknown	25.71	5/2/17 0:00	Buccal Swab
+MuVs/Washington.USA/19.17/FH44[G]	unknown	27.26	5/10/17 0:00	Buccal Swab
+MuVs/Washington.USA/19.17/FH53[G]	unknown	22.25	5/12/17 0:00	Buccal Swab
+MuVs/Washington.USA/19.17/FH80[G]	unknown	29.00	5/11/17 0:00	Buccal Swab
+MuVs/Washington.USA/21.17/FH69[G]	not_up_to_date	22.46	5/22/17 0:00	Buccal Swab
+MuVs/Washington.USA/20.17/FH81[G]	not_up_to_date	27.85	5/21/17 0:00	Buccal Swab
+MuVs/Washington.USA/20.17/FH73[G]	up_to_date	28.59	5/21/17 0:00	Buccal Swab
+MuVs/Washington.USA/20.17/FH82[G]	up_to_date	33.04	5/22/17 0:00	Buccal Swab
+MuVs/Washington.USA/22.17/FH74[G]	up_to_date	28.84	5/30/17 0:00	Buccal Swab
+MuVs/Washington.USA/29.17/FH83[G]	not_up_to_date	32.28	7/26/17 0:00	Buccal Swab
+MuVs/Washington.USA/30.17/FH32[G]	not_up_to_date	21.88	7/25/17 0:00	Buccal Swab
+MuVs/Washington.USA/50.16/FH33[G]	unknown	23.94	12/19/16 0:00	Buccal Swab
+MuVs/Washington.USA/51.16/FH41[G]	unknown	23.56	12/21/16 0:00	Buccal Swab
+MuVs/Washington.USA/9.17/FH42[G]	up_to_date	23.29	3/6/17 0:00	Buccal Swab
+MuVs/Washington.USA/10.17/FH43[G]	up_to_date	24.50	3/7/17 0:00	Buccal Swab
+MuVs/Washington.USA/2.17/FH84[G]	not_up_to_date	23.08	1/13/17 0:00	Buccal Swab
+MuVs/Washington.USA/2.17/FH58[G]	up_to_date	23.20	1/13/17 0:00	Buccal Swab
+MuVs/Washington.USA/3.17/FH59[G]	up_to_date	26.24	1/18/17 0:00	Buccal Swab
+MuVs/Washington.USA/4.17/FH60[G]	not_up_to_date	26.87	2/3/17 0:00	Buccal Swab
+MuVs/Washington.USA/12.17/FH76[G]	not_up_to_date	25.15	3/22/17 0:00	Buccal Swab
+MuVs/Washington.USA/7.17/FH61[G]	unknown	24.86	2/22/17 0:00	Buccal Swab
+MuVs/Washington.USA/3.17/FH62[G]	unknown	26.99	1/19/17 0:00	Buccal Swab
+MuVs/Washington.USA/16.17/FH63[G]	up_to_date	24.26	4/21/17 0:00	Buccal Swab
+MuVs/Washington.USA/49.16/FH158[G]	unknown	30.55	12/11/16	Buccal Swab
+MuVs/Washington.USA/1.17/FH160[G]	unknown	24.17	1/3/17	Buccal Swab
+MuVs/Washington.USA/4.17/FH103[G]	up_to_date	34.19	1/29/17	Buccal Swab
+MuVs/Washington.USA/5.17/FH161[G]	up_to_date	23.05	1/31/17	Buccal Swab
+MuVs/Washington.USA/5.17/FH162[G]	up_to_date	27.08	2/2/17	Buccal Swab
+MuVs/Washington.USA/5.17/FH104[G]	up_to_date	31.96	2/8/17	Buccal Swab
+MuVs/Washington.USA/6.17/FH105[G]	up_to_date	36.53	2/10/17	Buccal Swab
+MuVs/Washington.USA/7.17/FH106[G]	not_up_to_date	27.98	2/14/17	Buccal Swab
+MuVs/Washington.USA/7.17/FH166[G]	up_to_date	27.96	2/19/17	Buccal Swab
+MuVs/Washington.USA/8.17/FH142[G]	up_to_date	25.33	2/22/17	Buccal Swab
+MuVs/Washington.USA/9.17/FH94[K]	unknown	29.13	2/28/17	Buccal Swab
+MuVs/Washington.USA/11.17/FH143[G]	up_to_date	28.34	3/15/17	Buccal Swab
+MuVs/Washington.USA/11.17/FH95[G]	up_to_date	28.52	3/15/17	Buccal Swab
+MuVs/Washington.USA/11.17/FH96[G]	up_to_date	36.91	3/18/17	Buccal Swab
+MuVs/Washington.USA/12.17/FH97[G]	up_to_date	35.13	3/23/17	Buccal Swab
+MuVs/Washington.USA/12.17/FH144[G]	unknown	29.66	3/27/17	Buccal Swab
+MuVs/Washington.USA/14.17/FH98[G]	not_up_to_date	29.59	4/6/17	Buccal Swab
+MuVs/Washington.USA/14.17/FH145[G]	up_to_date	21.45	4/6/17	Buccal Swab
+MuVs/Washington.USA/15.17/FH146[G]	up_to_date	27.09	4/18/17	Buccal Swab
+MuVs/Washington.USA/18.17/FH147[G]	up_to_date	28.86	5/4/17	Buccal Swab
+MuVs/Washington.USA/19.17/FH100[G]	up_to_date	29.44	5/11/17	Buccal Swab
+MuVs/Washington.USA/20.17/FH148[G]	up_to_date	26.59	5/24/17	Buccal Swab
+MuVs/Washington.USA/23.17/FH149[G]	unknown	33.05	6/11/17	Buccal Swab
+MuVs/Washington.USA/23.17/FH150[G]	up_to_date	32.33	6/12/17	Buccal Swab
+MuVs/Washington.USA/28.17/FH151[G]	up_to_date	24.18	7/12/17	Buccal Swab
+MuVs/Washington.USA/16.17/FH152[G]	up_to_date	27.41	4/17/17	Buccal Swab
