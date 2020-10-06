@@ -1,0 +1,13 @@
+# Tracing mumps transmission in Washington state
+
+#### Louise H. Moncla*<sup>1</sup>, Allison Black*<sup>1,2</sup>, Misty Lang<sup>3</sup>, Nicholas R. Graff<sup>3</sup>, Ailyn C. Perez-Osorio<sup>3</sup>, Nicola F. Müller<sup>1</sup>,  Dirk Haselow<sup>4</sup>, Chas DeBolt<sup>3</sup>,Trevor Bedford<sup>1,2</sup>
+
+<sup>1</sup>Fred Hutchinson Cancer Research Center, Seattle, Washington, United States
+<sup>1</sup>University of Washington, Seattle, Washington, United States
+<sup>3</sup>Office of Communicable Disease Epidemiology, Washington State Department of Health, United States
+<sup>4</sup>Arkansas Department of Health, Little Rock, Arkansas, United States
+
+<sup>*</sup>these authors contributed equally to this work 
+
+## Abstract 
+Mumps has resurged among vaccinated individuals in recent years, sparking an outbreak in 2016 and 2017 that affected nearly 12,000. Burgeoning evidence demonstrates that mumps vaccine-induced immunity wanes over time, triggering post-vaccine era outbreaks to which young adults are particularly susceptible. During the 2016/2017 outbreak, Washington state experienced one of the highest incidence rates of mumps infection, despite high overall vaccination rates. Curiously, Washington cases were enriched among school-aged children and members of a particular close-knit ethnic community, suggesting that waning immunity alone may not explain transmission. To elucidate how the mumps outbreak in Washington originated and spread, we sequenced 80 near-complete genomes of mumps viruses collected throughout the outbreak, and trace mumps transmission into and within the state. Contrary to contact tracing data, we uncover that mumps was introduced into Washington at least 13 times, primarily from Arkansas, sparking overlapping transmission chains. We do not find evidence for antigenic evolution, or that vaccination status or age were the primary determinants of transmission. Instead, the outbreak was overwhelmingly sustained by transmission within a close-knit ethnic community. Community members were twice as likely to transmit mumps as non-community members, and transmission to non-community members lead to short, terminal transmission chains. These data suggest that transmission was inefficient outside of close-contact settings. Our data underscore the ability of genomic data to clarify epidemiologic factors driving transmission, and pinpoint contact networks as critical determinants of mumps transmission in Washington. Our results suggest that in contact patterns should be considered along with waning immunity when formulating outbreak response and 3rd dose vaccine recommendations.  
