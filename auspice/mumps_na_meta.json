@@ -1,0 +1,418 @@
+{
+  "annotations": {
+    "F": {
+      "end": 6099,
+      "start": 4482,
+      "strand": 1
+    },
+    "HN": {
+      "end": 8299,
+      "start": 6550,
+      "strand": 1
+    },
+    "I": {
+      "end": 2431,
+      "start": 1915,
+      "strand": 1
+    },
+    "L": {
+      "end": 15160,
+      "start": 8374,
+      "strand": 1
+    },
+    "M": {
+      "end": 4328,
+      "start": 3200,
+      "strand": 1
+    },
+    "NC": {
+      "end": 1732,
+      "start": 421,
+      "strand": 1
+    },
+    "P": {
+      "end": 3089,
+      "start": 1915,
+      "strand": 1
+    },
+    "SH": {
+      "end": 6378,
+      "start": 6204,
+      "strand": 1
+    },
+    "V": {
+      "end": 2590,
+      "start": 1915,
+      "strand": 1
+    },
+    "nuc": {
+      "end": 15263,
+      "start": 0,
+      "strand": 1
+    }
+  },
+  "author_info": {
+    "Alkam et al": {
+      "journal": "Unpublished",
+      "n": 16,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/",
+      "title": "Genomic characterization of mumps viruses from a large-scale mumps outbreak in Arkansas, 2016"
+    },
+    "Bankamp et al": {
+      "journal": "Unpublished",
+      "n": 43,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/",
+      "title": "Mumps rubulavirus sample sequencing from the 2016-2017 outbreak in Massachusetts"
+    },
+    "Byrne et al": {
+      "journal": "Unpublished",
+      "n": 169,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/",
+      "title": "Mumps rubulavirus sample sequencing from the 2016-2017 outbreak in Massachusetts"
+    },
+    "Eshaghi et al": {
+      "journal": "Unpublished",
+      "n": 7,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/",
+      "title": "Mumps Outbreak in Ontario, Canada 2009-2010"
+    },
+    "Espinosa et al": {
+      "journal": "Submitted (20-APR-2017) Viral and Rickettsial Disease Laboratory, California Department of Public Health, 850 Marina Bay Parkway, Richmond, CA 94804, USA",
+      "n": 1,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/",
+      "title": "Direct Submission"
+    },
+    "Gardy et al": {
+      "journal": "?",
+      "n": 68,
+      "paper_url": "?",
+      "title": "Unpublished"
+    },
+    "Kirkness et al": {
+      "journal": "Submitted (12-JUN-2012) J. Craig Venter Institute, 9704 Medical Center Drive, Rockville, MD 20850, USA",
+      "n": 7,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/",
+      "title": "Direct Submission"
+    },
+    "Moncla et al": {
+      "journal": "?",
+      "n": 163,
+      "paper_url": "?",
+      "title": "Unpublished"
+    },
+    "Stapleton et al": {
+      "journal": "?",
+      "n": 26,
+      "paper_url": "?",
+      "title": "Unpublished"
+    },
+    "Wohl et al": {
+      "journal": "?",
+      "n": 2,
+      "paper_url": "?",
+      "title": "Unpublished"
+    },
+    "Wongsurawat et al": {
+      "journal": "Unpublished",
+      "n": 3,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/",
+      "title": "Three Complete Genome Sequences of Genotype G Mumps Virus from the 2016 outbreak in Arkansas, USA"
+    }
+  },
+  "color_options": {
+    "MuV_genotype": {
+      "color_map": [
+        [
+          "G",
+          "#7CB878"
+        ]
+      ],
+      "key": "MuV_genotype",
+      "legendTitle": "MuV genotype",
+      "menuItem": "MuV genotype",
+      "type": "discrete"
+    },
+    "authors": {
+      "key": "authors",
+      "legendTitle": "Authors",
+      "menuItem": "authors",
+      "type": "discrete"
+    },
+    "country": {
+      "color_map": [
+        [
+          "USA",
+          "#4063CF"
+        ],
+        [
+          "Canada",
+          "#E68735"
+        ]
+      ],
+      "key": "country",
+      "legendTitle": "country",
+      "menuItem": "country"
+    },
+    "division": {
+      "color_map": [
+        [
+          "Wisconsin",
+          "#290F54"
+        ],
+        [
+          "North Carolina",
+          "#3D167E"
+        ],
+        [
+          "California",
+          "#511EA8"
+        ],
+        [
+          "New York",
+          "#4928B4"
+        ],
+        [
+          "Massachusetts",
+          "#4334BF"
+        ],
+        [
+          "Virginia",
+          "#3F50CC"
+        ],
+        [
+          "Georgia",
+          "#3F5ED0"
+        ],
+        [
+          "Manitoba",
+          "#416CCE"
+        ],
+        [
+          "Arkansas",
+          "#4784C7"
+        ],
+        [
+          "North Dakota",
+          "#5098B9"
+        ],
+        [
+          "Louisiana",
+          "#5CA7A4"
+        ],
+        [
+          "Ontario",
+          "#6BB18E"
+        ],
+        [
+          "Missouri",
+          "#7CB878"
+        ],
+        [
+          "Indiana",
+          "#A4BE56"
+        ],
+        [
+          "Michigan",
+          "#B9BC4A"
+        ],
+        [
+          "Montana",
+          "#C2BA46"
+        ],
+        [
+          "New Hampshire",
+          "#CCB742"
+        ],
+        [
+          "Ohio",
+          "#DAAC3D"
+        ],
+        [
+          "Washington",
+          "#E39B39"
+        ],
+        [
+          "Illinois",
+          "#E68234"
+        ],
+        [
+          "Kansas",
+          "#E67431"
+        ],
+        [
+          "Pennsylvania",
+          "#E1512A"
+        ],
+        [
+          "New Jersey",
+          "#DF4027"
+        ],
+        [
+          "British Columbia",
+          "#DC2F24"
+        ],
+        [
+          "Texas",
+          "#C12920"
+        ],
+        [
+          "Iowa",
+          "#A5231B"
+        ],
+        [
+          "Alabama",
+          "#891D17"
+        ]
+      ],
+      "key": "division",
+      "legendTitle": "division",
+      "menuItem": "division"
+    },
+    "gt": {
+      "key": "genotype",
+      "legendTitle": "Genotype",
+      "menuItem": "genotype",
+      "type": "discrete"
+    },
+    "num_date": {
+      "key": "num_date",
+      "legendTitle": "Sampling date",
+      "menuItem": "date",
+      "type": "continuous"
+    }
+  },
+  "defaults": {
+    "colorBy": "division",
+    "mapTriplicate": true
+  },
+  "filters": [
+    "division",
+    "region",
+    "authors",
+    "MuV_genotype"
+  ],
+  "geo": {
+    "division": {
+      "Alabama": {
+        "latitude": 33.2588817,
+        "longitude": -86.8295336
+      },
+      "Arkansas": {
+        "latitude": 35.2048883,
+        "longitude": -92.4479107
+      },
+      "British Columbia": {
+        "latitude": 49.24966,
+        "longitude": -123.11934
+      },
+      "California": {
+        "latitude": 36.7014631,
+        "longitude": -118.7559973
+      },
+      "Georgia": {
+        "latitude": 32.3293809,
+        "longitude": -83.1137365
+      },
+      "Illinois": {
+        "latitude": 40.0796319,
+        "longitude": -89.4339808
+      },
+      "Indiana": {
+        "latitude": 40.3270127,
+        "longitude": -86.1746932
+      },
+      "Iowa": {
+        "latitude": 41.9216734,
+        "longitude": -93.3122704
+      },
+      "Kansas": {
+        "latitude": 38.27312,
+        "longitude": -98.5821871
+      },
+      "Louisiana": {
+        "latitude": 30.8703881,
+        "longitude": -92.0071259
+      },
+      "Manitoba": {
+        "latitude": 49.8844,
+        "longitude": -97.14704
+      },
+      "Massachusetts": {
+        "latitude": 42.3788774,
+        "longitude": -72.0323659
+      },
+      "Michigan": {
+        "latitude": 43.6211955,
+        "longitude": -84.6824345
+      },
+      "Missouri": {
+        "latitude": 37.9643,
+        "longitude": -91.8318
+      },
+      "Montana": {
+        "latitude": 47.3752671,
+        "longitude": -109.6387578
+      },
+      "New Hampshire": {
+        "latitude": 43.4718339,
+        "longitude": -71.6182147
+      },
+      "New Jersey": {
+        "latitude": 40.0757384,
+        "longitude": -74.4041621
+      },
+      "New York": {
+        "latitude": 40.7642499,
+        "longitude": -73.9545249
+      },
+      "North Carolina": {
+        "latitude": 35.6729639,
+        "longitude": -79.0392918
+      },
+      "North Dakota": {
+        "latitude": 47.6201461,
+        "longitude": -100.5407369
+      },
+      "Ohio": {
+        "latitude": 40.2253569,
+        "longitude": -82.6881394
+      },
+      "Ontario": {
+        "latitude": 50.0000002,
+        "longitude": -86.0
+      },
+      "Pennsylvania": {
+        "latitude": 40.9699889,
+        "longitude": -77.727883
+      },
+      "Texas": {
+        "latitude": 31.8160381,
+        "longitude": -99.5120985
+      },
+      "Virginia": {
+        "latitude": 37.1232245,
+        "longitude": -78.492772
+      },
+      "Washington": {
+        "latitude": 47.6,
+        "longitude": -122.33
+      },
+      "Wisconsin": {
+        "latitude": 44.4308975,
+        "longitude": -89.6884636
+      }
+    }
+  },
+  "maintainer": [
+    "Louise Moncla",
+    "http://bedford.io/team/louise-moncla/"
+  ],
+  "panels": [
+    "tree",
+    "map",
+    "entropy"
+  ],
+  "title": "Real-time tracking of mumps virus evolution",
+  "updated": "02 Jan 2020",
+  "virus_count": 453
+}

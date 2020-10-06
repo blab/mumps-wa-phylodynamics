@@ -1,0 +1,538 @@
+{
+  "annotations": {
+    "F": {
+      "end": 6099,
+      "start": 4482,
+      "strand": 1
+    },
+    "HN": {
+      "end": 8299,
+      "start": 6550,
+      "strand": 1
+    },
+    "I": {
+      "end": 2431,
+      "start": 1915,
+      "strand": 1
+    },
+    "L": {
+      "end": 15160,
+      "start": 8374,
+      "strand": 1
+    },
+    "M": {
+      "end": 4328,
+      "start": 3200,
+      "strand": 1
+    },
+    "NC": {
+      "end": 1732,
+      "start": 421,
+      "strand": 1
+    },
+    "P": {
+      "end": 3089,
+      "start": 1915,
+      "strand": 1
+    },
+    "SH": {
+      "end": 6378,
+      "start": 6204,
+      "strand": 1
+    },
+    "V": {
+      "end": 2590,
+      "start": 1915,
+      "strand": 1
+    },
+    "nuc": {
+      "end": 15263,
+      "start": 0,
+      "strand": 1
+    }
+  },
+  "author_info": {
+    "Agafonov et al": {
+      "journal": "Epidemiol Vakcinoprofil 5, 34-42 (2007)",
+      "n": 1,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/",
+      "title": "Isolation, genotyping and analysis of the complete nucleotide sequence of mumps virus Siberian strain"
+    },
+    "Alkam et al": {
+      "journal": "Unpublished",
+      "n": 16,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/",
+      "title": "Genomic characterization of mumps viruses from a large-scale mumps outbreak in Arkansas, 2016"
+    },
+    "Bankamp et al": {
+      "journal": "Unpublished",
+      "n": 43,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/",
+      "title": "Mumps rubulavirus sample sequencing from the 2016-2017 outbreak in Massachusetts"
+    },
+    "Byrne et al": {
+      "journal": "Unpublished",
+      "n": 169,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/",
+      "title": "Mumps rubulavirus sample sequencing from the 2016-2017 outbreak in Massachusetts"
+    },
+    "Cui et al": {
+      "journal": "Bing Du Xue Bao 29 (6), 602-607 (2013)",
+      "n": 1,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/24520765",
+      "title": "[Genetic analysis of a genotype F mumps virus based on its complete genome sequence]"
+    },
+    "Dilcher et al": {
+      "journal": "J. Clin. Microbiol. (2018) In press",
+      "n": 2,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/30021826",
+      "title": "Monitoring viral genetic variation as a tool to improve molecular diagnostics for Mumps virus"
+    },
+    "Elena et al": {
+      "journal": "Submitted (20-APR-2017) Measles, Mumps, Rubella and Herpesvirus Laboratory Branch, Centers for Disease Control and Prevention, 1600 Clifton Road NE, Atlanta, GA 30329, USA",
+      "n": 1,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/",
+      "title": "Direct Submission"
+    },
+    "Eshaghi et al": {
+      "journal": "Unpublished",
+      "n": 7,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/",
+      "title": "Mumps Outbreak in Ontario, Canada 2009-2010"
+    },
+    "Espinosa et al": {
+      "journal": "Submitted (20-APR-2017) Viral and Rickettsial Disease Laboratory, California Department of Public Health, 850 Marina Bay Parkway, Richmond, CA 94804, USA",
+      "n": 1,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/",
+      "title": "Direct Submission"
+    },
+    "Gardy et al": {
+      "journal": "?",
+      "n": 68,
+      "paper_url": "?",
+      "title": "Unpublished"
+    },
+    "Hasegawa et al": {
+      "journal": "Unpublished",
+      "n": 7,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/",
+      "title": "Detection of Mumps rubulavirus Tokyo, Japan"
+    },
+    "He et al": {
+      "journal": "Unpublished",
+      "n": 4,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/",
+      "title": "Mumps epidemiology and molecular charicterisation of mumps virus circulating in Zhejiang province, China during the period of 2005-2010"
+    },
+    "Huang et al": {
+      "journal": "Unpublished",
+      "n": 2,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/",
+      "title": "Illumina sequencing of clinical samples for virus detection in a public health laboratory: a feasibility study"
+    },
+    "Jin et al": {
+      "journal": "Rev. Med. Virol. (2014) In press",
+      "n": 8,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/25424978",
+      "title": "Genomic diversity of mumps virus and global distribution of the 12 genotypes"
+    },
+    "Kidokoro et al": {
+      "journal": "Unpublished",
+      "n": 3,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/",
+      "title": "MuV isolate in Japan"
+    },
+    "Kirkness et al": {
+      "journal": "Submitted (12-JUN-2012) J. Craig Venter Institute, 9704 Medical Center Drive, Rockville, MD 20850, USA",
+      "n": 7,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/",
+      "title": "Direct Submission"
+    },
+    "Lee et al": {
+      "journal": "Virus Genes 28 (2), 201-205 (2004)",
+      "n": 1,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/14976420",
+      "title": "Complete nucleotide sequence of a mumps virus genotype I strain isolated in Korea"
+    },
+    "Ma et al": {
+      "journal": "Microbes Infect. (2006) In press",
+      "n": 2,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/",
+      "title": "Sequence analysis of the SH gene and its flanking region of mumps virus isolated strain (SP strain)"
+    },
+    "Maganga et al": {
+      "journal": "Genome Announc 2 (6) (2014)",
+      "n": 2,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/25428961",
+      "title": "Complete genome sequence of mumps virus genotype g from a vaccinated child in franceville, southeastern Gabon, in 2013"
+    },
+    "Moncla et al": {
+      "journal": "?",
+      "n": 163,
+      "paper_url": "?",
+      "title": "Unpublished"
+    },
+    "Morfopoulou et al": {
+      "journal": "Acta Neuropathol. 133 (1), 139-147 (2017)",
+      "n": 1,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/27770235",
+      "title": "Deep sequencing reveals persistence of cell-associated mumps vaccine virus in chronic encephalitis"
+    },
+    "Shah et al": {
+      "journal": "J. Med. Virol. 81 (1), 130-138 (2009)",
+      "n": 1,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/19031463",
+      "title": "Identification of genetic mutations associated with attenuation and changes in tropism of Urabe mumps virus"
+    },
+    "Sidorenko et al": {
+      "journal": "Unpublished",
+      "n": 1,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/",
+      "title": "Genetic stability and homogeneity of Leningrad-3 live attenuated mumps vaccine strain throughout the manufacturing process"
+    },
+    "Stapleton et al": {
+      "journal": "?",
+      "n": 26,
+      "paper_url": "?",
+      "title": "Unpublished"
+    },
+    "Vaidya et al": {
+      "journal": "Unpublished",
+      "n": 10,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/",
+      "title": "Mumps outbreak in a tribal population from the Union Territory of Dadra and Nagar Haveli, India"
+    },
+    "Wohl et al": {
+      "journal": "?",
+      "n": 2,
+      "paper_url": "?",
+      "title": "Unpublished"
+    },
+    "Wongsurawat et al": {
+      "journal": "Unpublished",
+      "n": 3,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/",
+      "title": "Three Complete Genome Sequences of Genotype G Mumps Virus from the 2016 outbreak in Arkansas, USA"
+    }
+  },
+  "color_options": {
+    "MuV_genotype": {
+      "color_map": [
+        [
+          "A",
+          "#511EA8"
+        ],
+        [
+          "C",
+          "#3F5ED0"
+        ],
+        [
+          "D",
+          "#4784C7"
+        ],
+        [
+          "F",
+          "#5CA7A4"
+        ],
+        [
+          "G",
+          "#7CB878"
+        ],
+        [
+          "H",
+          "#B9BC4A"
+        ],
+        [
+          "I",
+          "#CCB742"
+        ],
+        [
+          "J",
+          "#E39B39"
+        ],
+        [
+          "K",
+          "#E67431"
+        ],
+        [
+          "L",
+          "#DF4027"
+        ]
+      ],
+      "key": "MuV_genotype",
+      "legendTitle": "MuV genotype",
+      "menuItem": "MuV genotype",
+      "type": "discrete"
+    },
+    "authors": {
+      "key": "authors",
+      "legendTitle": "Authors",
+      "menuItem": "authors",
+      "type": "discrete"
+    },
+    "country": {
+      "color_map": [
+        [
+          "China",
+          "#511EA8"
+        ],
+        [
+          "Mongolia",
+          "#403DC5"
+        ],
+        [
+          "USA",
+          "#4063CF"
+        ],
+        [
+          "Australia",
+          "#4785C7"
+        ],
+        [
+          "Russia",
+          "#559EB1"
+        ],
+        [
+          "Japan",
+          "#67AF94"
+        ],
+        [
+          "South Korea",
+          "#7EB877"
+        ],
+        [
+          "New Zealand",
+          "#98BD5E"
+        ],
+        [
+          "Gabon",
+          "#CDB642"
+        ],
+        [
+          "Germany",
+          "#DFA53B"
+        ],
+        [
+          "Canada",
+          "#E68735"
+        ],
+        [
+          "India",
+          "#E35D2D"
+        ],
+        [
+          "United Kingdom",
+          "#DC2F24"
+        ]
+      ],
+      "key": "country",
+      "legendTitle": "country",
+      "menuItem": "country"
+    },
+    "division": {
+      "color_map": [
+        [
+          "Wisconsin",
+          "#290F54"
+        ],
+        [
+          "North Carolina",
+          "#3D167E"
+        ],
+        [
+          "California",
+          "#511EA8"
+        ],
+        [
+          "New York",
+          "#4928B4"
+        ],
+        [
+          "Massachusetts",
+          "#4334BF"
+        ],
+        [
+          "Virginia",
+          "#3F50CC"
+        ],
+        [
+          "Georgia",
+          "#3F5ED0"
+        ],
+        [
+          "Manitoba",
+          "#416CCE"
+        ],
+        [
+          "Arkansas",
+          "#4784C7"
+        ],
+        [
+          "North Dakota",
+          "#5098B9"
+        ],
+        [
+          "Louisiana",
+          "#5CA7A4"
+        ],
+        [
+          "Ontario",
+          "#6BB18E"
+        ],
+        [
+          "Missouri",
+          "#7CB878"
+        ],
+        [
+          "Indiana",
+          "#A4BE56"
+        ],
+        [
+          "Michigan",
+          "#B9BC4A"
+        ],
+        [
+          "Montana",
+          "#C2BA46"
+        ],
+        [
+          "New Hampshire",
+          "#CCB742"
+        ],
+        [
+          "Ohio",
+          "#DAAC3D"
+        ],
+        [
+          "Washington",
+          "#E39B39"
+        ],
+        [
+          "Illinois",
+          "#E68234"
+        ],
+        [
+          "Kansas",
+          "#E67431"
+        ],
+        [
+          "Pennsylvania",
+          "#E1512A"
+        ],
+        [
+          "New Jersey",
+          "#DF4027"
+        ],
+        [
+          "British Columbia",
+          "#DC2F24"
+        ],
+        [
+          "Texas",
+          "#C12920"
+        ],
+        [
+          "Iowa",
+          "#A5231B"
+        ],
+        [
+          "Alabama",
+          "#891D17"
+        ]
+      ],
+      "key": "division",
+      "legendTitle": "division",
+      "menuItem": "division"
+    },
+    "gt": {
+      "key": "genotype",
+      "legendTitle": "Genotype",
+      "menuItem": "genotype",
+      "type": "discrete"
+    },
+    "num_date": {
+      "key": "num_date",
+      "legendTitle": "Sampling date",
+      "menuItem": "date",
+      "type": "continuous"
+    }
+  },
+  "defaults": {
+    "colorBy": "division",
+    "mapTriplicate": true
+  },
+  "filters": [
+    "division",
+    "region",
+    "authors",
+    "MuV_genotype"
+  ],
+  "geo": {
+    "country": {
+      "Australia": {
+        "latitude": -24.7761085,
+        "longitude": 134.755
+      },
+      "Canada": {
+        "latitude": 61.0666922,
+        "longitude": -107.991707
+      },
+      "China": {
+        "latitude": 35.000074,
+        "longitude": 104.999927
+      },
+      "Gabon": {
+        "latitude": -0.8999694,
+        "longitude": 11.6899699
+      },
+      "Germany": {
+        "latitude": 51.0834196,
+        "longitude": 10.4234469
+      },
+      "India": {
+        "latitude": 22.3511148,
+        "longitude": 78.6677428
+      },
+      "Japan": {
+        "latitude": 35.68536,
+        "longitude": 139.75309
+      },
+      "Mongolia": {
+        "latitude": 46.8250388,
+        "longitude": 103.8499736
+      },
+      "New Zealand": {
+        "latitude": -41.500083,
+        "longitude": 172.8344077
+      },
+      "Russia": {
+        "latitude": 64.6863136,
+        "longitude": 97.7453061
+      },
+      "South Korea": {
+        "latitude": 35.3985008,
+        "longitude": 127.937111
+      },
+      "USA": {
+        "latitude": 39.7837304,
+        "longitude": -100.4458824
+      },
+      "United Kingdom": {
+        "latitude": 54.542713,
+        "longitude": -2.384858
+      }
+    }
+  },
+  "maintainer": [
+    "Louise Moncla",
+    "http://bedford.io/team/louise-moncla/"
+  ],
+  "panels": [
+    "tree",
+    "map",
+    "entropy"
+  ],
+  "title": "Real-time tracking of mumps virus evolution",
+  "updated": "02 Jan 2020",
+  "virus_count": 336
+}
