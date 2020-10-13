@@ -1,0 +1,10 @@
+sample=4500000
+totalSwaps=45000
+successfullSwaps=12059
+successfullSwaps0=3077
+deltaTemperature=0.053016539784072426
+lastSwaps=[false, false, false, false, true, false, false, false, false, false, true, false, false, false, false, false, false, true, false, false, true, false, false, false, false, false, false, true, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, true, false, true, false, false, false, false, false, false, false, false, false, false, false, false, true, false, false, true, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, true, false, true, false, false, true, false, false, false, true, false]
+beta_chain.0=0.9041320901454902
+beta_chain.1=1.0
+beta_chain.2=0.8627758322882598
+beta_chain.3=0.9496526998569805
