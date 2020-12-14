@@ -1,0 +1,21 @@
+
+Operator analysis
+Operator                                          Tuning   Count      Time     Time/Op  Pr(accept) Smoothed_Pr(accept)
+scale(kappa)                                      0.63    907652     22086694 24.33    0.2339      0.24        
+frequencies                                       0.02    907886     22133597 24.38    0.2341      0.28        
+scale(alpha)                                      0.215   907280     22113659 24.37    0.2342      0.26        
+scale(mumps-north-american-seqs-DTA-2020-01-16.aligned.no-metadata.clock.rate)0.847   2725576    66582942 24.43    0.2341      0.19        
+scale(geo.clock.rate)                             0.472   2724388    42226046 15.5     0.234       0.26        
+subtreeSlide(treeModel)                           0.163   13625540   38957460 2.86     0.234       0.2         
+Narrow Exchange(treeModel)                                13627691   35471340 2.6      0.3876      0.31        
+Wide Exchange(treeModel)                                  2723054    1733222  0.64     0.0056      0.02        
+wilsonBalding(treeModel)                                  2725166    12738282 4.67     0.0136      0.01        
+scale(treeModel.rootHeight)                       0.182   2722421    8643222  3.17     0.2342      0.26        
+uniform(nodeHeights(treeModel))                           27249371   117068345 4.3      0.6738      0.62        
+gmrfBlockUpdateOperator                                   1814194    760464   0.42     0.4583      0.6         
+scale(skygrid.precision)                          0.392   906579     373160   0.41     0.2343      0.3         
+up:mumps-north-american-seqs-DTA-2020-01-16.aligned.no-metadata.clock.rate down:nodeHeights(treeModel) 0.999   2726447    50753867 18.62    0.2339      0.21        
+up:geo.clock.rate down:nodeHeights(treeModel)     0.999   2728087    50796290 18.62    0.2341      0.28        
+scale(geo.rates)                                  0.927   13620179   216140589 15.87    0.234       0.17        
+bitFlip(geo.indicators)                                   6358489    100361452 15.78    0.6298      0.58        
+
